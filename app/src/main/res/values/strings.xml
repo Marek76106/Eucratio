@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Eucratio</string>
+    <string name="head_naz">Naziv proizvoda</string>
+    <string name="head_hrk">HRK</string>
+    <string name="btn_txt">Izračunaj</string>
+    <string name="rez1txt">Ukupno HRK</string>
+    <string name="rez2txt">HRK->EUR</string>
+    <string name="rez3txt">Ukupno EUR</string>
+    <string name="foot_txt">Nakon unesenih svih artikala za kupnju pritisnite dugme Izračunaj ukupno.</string>
+    <string name="instructions">Dobro došli u moju prvu aplikaciju <b>Eucratio</b>.\n\n\nKao što nam je svima poznato, Hrvatska ulazi u eurozonu, a sa time dolazi i dvojno iskazivanje cijena koje će trajati barem šest mjeseci nakon ulaska u područje zajedničke europske valute.\n\nStoga nam stiže i aplikacija Eucratio kako bismo prilikom kupnje mogli provjeriti jesmo li izgubili ili dobili novac prilikom zaokruživanja konverzirane valute na dvije decimale.\n\nPrvo unesite artikal i njegovu cijenu u HRK, zatim naredni artikal i tako sve dok ne završite kupnju. Ne zaboravite stisnuti uokvireni znak \"+\" prilikom unosa posljednjeg artikla. Prikazati će vam se cijene u HRK i u EUR, a stiskom gumba \"Izračunaj\" će vam aplikacija javiti koliko ste novca dobili, odnosno izgubili.\n\n<b>Doodirnite ekran za nastavak</b> </string>
+    <string name="obavijest1">Ukucajte i naziv i cijenu proizvoda.</string>
+    <string name="obavijest2">Prvo unesite proizvode!</string>
+    <string name="btnBack">Nova lista</string>
+</resources>

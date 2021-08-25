@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Sredina"
+    android:background="#edf7fc">
+
+    <ImageView
+        android:id="@+id/imgSredina"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/okish" />
+    <TextView
+        android:id="@+id/tvSredina"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imgSredina"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:textColor="#FFF"
+        android:textAlignment="center"
+        android:background="@drawable/custo_results_text_style"
+        android:textSize="25sp"
+        android:text=""
+        android:padding="20dp"/>
+    <Button
+        android:id="@+id/btnSredina"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_below="@+id/tvSredina"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        app:backgroundTint="@null"
+        android:background="@drawable/btn_style"
+        android:textColor="#3F4EC2"
+        android:text="@string/btnBack"
+        android:onClick="goBackSredina"/>
+
+</RelativeLayout>

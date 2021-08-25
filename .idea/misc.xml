@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lapto/Desktop/Mario/projekti/Eucratio/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.221875" />
+        <entry key="..\:/Users/lapto/Desktop/Mario/projekti/Eucratio/app/src/main/res/drawable/add_item.xml" value="0.221875" />
+        <entry key="..\:/Users/lapto/Desktop/Mario/projekti/Eucratio/app/src/main/res/drawable/border_vtext.xml" value="0.3828125" />
+        <entry key="..\:/Users/lapto/Desktop/Mario/projekti/Eucratio/app/src/main/res/drawable/btn_style.xml" value="0.3828125" />
+        <entry key="..\:/Users/lapto/Desktop/Mario/projekti/Eucratio/app/src/main/res/drawable/button_style.xml" value="0.3828125" />
+        <entry key="..\:/Users/lapto/Desktop/Mario/projekti/Eucratio/app/src/main/res/drawable/custo_results_text_style.xml" value="0.24537037037037038" />
+        <entry key="..\:/Users/lapto/Desktop/Mario/projekti/Eucratio/app/src/main/res/drawable/custom_instructions_text_style.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/lapto/Desktop/Mario/projekti/Eucratio/app/src/main/res/drawable/custom_listadapter.xml" value="0.2490740740740741" />
+        <entry key="..\:/Users/lapto/Desktop/Mario/projekti/Eucratio/app/src/main/res/drawable/custom_listadapter_layout.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/lapto/Desktop/Mario/projekti/Eucratio/app/src/main/res/drawable/custom_listadapter_style.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/lapto/Desktop/Mario/projekti/Eucratio/app/src/main/res/drawable/custom_liststyle.xml" value="0.24537037037037038" />
+        <entry key="..\:/Users/lapto/Desktop/Mario/projekti/Eucratio/app/src/main/res/drawable/custom_results_style.xml" value="0.24537037037037038" />
+        <entry key="..\:/Users/lapto/Desktop/Mario/projekti/Eucratio/app/src/main/res/drawable/dollar_sign.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/lapto/Desktop/Mario/projekti/Eucratio/app/src/main/res/drawable/ic_baseline_add_circle_outline_24.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/lapto/Desktop/Mario/projekti/Eucratio/app/src/main/res/drawable/ic_launcher_background.xml" value="0.221875" />
+        <entry key="..\:/Users/lapto/Desktop/Mario/projekti/Eucratio/app/src/main/res/drawable/ic_reshot_icon_sack_of_money_euro_vl3m8t9wkz.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/lapto/Desktop/Mario/projekti/Eucratio/app/src/main/res/drawable/ic_smiling_line.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/lapto/Desktop/Mario/projekti/Eucratio/app/src/main/res/drawable/moneyhappy.xml" value="0.21822916666666667" />
+        <entry key="..\:/Users/lapto/Desktop/Mario/projekti/Eucratio/app/src/main/res/drawable/moneyleave.xml" value="0.3828125" />
+        <entry key="..\:/Users/lapto/Desktop/Mario/projekti/Eucratio/app/src/main/res/layout/activity_dobitak_novca.xml" value="0.22" />
+        <entry key="..\:/Users/lapto/Desktop/Mario/projekti/Eucratio/app/src/main/res/layout/activity_gubitak_novca.xml" value="0.5" />
+        <entry key="..\:/Users/lapto/Desktop/Mario/projekti/Eucratio/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/lapto/Desktop/Mario/projekti/Eucratio/app/src/main/res/layout/activity_sredina.xml" value="0.2916666666666667" />
+        <entry key="..\:/Users/lapto/Desktop/Mario/projekti/Eucratio/app/src/main/res/layout/adapter_view_layout.xml" value="0.25" />
+        <entry key="..\:/Users/lapto/Desktop/Mario/projekti/Eucratio/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/lapto/Desktop/Mario/projekti/Eucratio/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.22135416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Dobitak_Novca"
+    android:background="#edf7fc">
+
+    <ImageView
+        android:id="@+id/imgHappy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/gain"/>
+    <TextView
+        android:id="@+id/tvHappy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imgHappy"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:textAlignment="center"
+        android:textColor="#FFF"
+        android:background="@drawable/custo_results_text_style"
+        android:textSize="25sp"
+        android:text=""
+        android:padding="20dp"/>
+    <Button
+        android:id="@+id/btnHappy"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_below="@+id/tvHappy"
+        android:layout_centerHorizontal="true"
+        app:backgroundTint="@null"
+        android:background="@drawable/btn_style"
+        android:textColor="#3F4EC2"
+        android:text="@string/btnBack"
+        android:layout_marginTop="30dp"
+        android:onClick="goBackHappy"/>
+
+
+</RelativeLayout>
